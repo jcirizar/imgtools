@@ -2,6 +2,7 @@ FROM jcirizar/myubuntu
 
 RUN sudo apt-get install -y autoconf \
       libmagickwand-dev \
+      jpegoptim \
       pngnq \
       pngcrush \
       pngquant \
