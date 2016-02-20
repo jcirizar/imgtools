@@ -1,4 +1,4 @@
-FROM: jcirizar/myubuntu
+FROM jcirizar/myubuntu
 
 RUN sudo apt-get install -y autoconf \
       libmagickwand-dev \
